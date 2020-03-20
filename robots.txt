@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://naequaevi.mitchmcclellan.com/sitemap.xml
